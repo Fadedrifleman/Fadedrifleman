@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fadedrifleman
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on DApp projects
+- 👀 I’m interested in backenddevelopment
+- 🌱 I’m currently learning NodeJS stack
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : fadedrifleman@gmail.com
 
 <!---
