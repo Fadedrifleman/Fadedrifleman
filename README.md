@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Fadedrifleman<br>👀 I’m interested in backenddevelopment<br>🌱 I’m currently learning React-Native<br>💞️ I’m looking to collaborate on backend projects.<br>How to reach me : fadedrifleman@gmail.com<br>
+👋 Hi, I’m @Fadedrifleman<br>👀 I’m interested in backenddevelopment<br>🌱 I’m currently learning React-Native<br>💞️ I’m looking to collaborate on backend projects.<br>📬 How to reach me : fadedrifleman@gmail.com<br>
 
 
 ## 🌐 Socials:
