@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Fadedrifleman
-- 👀 I’m interested in backenddevelopment
-- 🌱 I’m currently learning NodeJS stack
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : fadedrifleman@gmail.com
-
 # 💫 About Me:
 - 👋 Hi, I’m @Fadedrifleman<br>- 👀 I’m interested in backenddevelopment<br>- 🌱 I’m currently learning React-Native<br>- 💞️ I’m looking to collaborate on backend projects.<br>- 📫 How to reach me : fadedrifleman@gmail.com<br>
 
