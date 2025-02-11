@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @Fadedrifleman<br>👀 I’m interested in backenddevelopment<br>🌱 I’m currently wornking on my startup<br>📬 How to reach me : fadedrifleman@gmail.com<br>
 
-[![QuibbleAI](https://platfrom.quibbleai.io)]
+[![QuibbleAI](https://platform.quibbleai.io)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivam_uttam_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadedrifleman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18847228) 
